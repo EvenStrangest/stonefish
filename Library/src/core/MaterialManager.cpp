@@ -23,6 +23,8 @@
 //  Copyright (c) 2013-2020 Patryk Cieslak. All rights reserved.
 //
 
+#include <stdexcept>
+
 #include "core/MaterialManager.h"
 
 #include "core/SimulationApp.h"

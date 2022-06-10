@@ -23,6 +23,8 @@
 //  Copyright (c) 2019-2021 Patryk Cieslak. All rights reserved.
 //
 
+#include <stdexcept>
+
 #include "core/ScenarioParser.h"
 #include "core/SimulationManager.h"
 #include "core/NED.h"

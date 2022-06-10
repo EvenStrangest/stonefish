@@ -23,6 +23,8 @@
 //  Copyright (c) 2020-2021 Patryk Cieslak. All rights reserved.
 //
 
+#include <stdexcept>
+
 #include "comms/AcousticModem.h"
 
 #include "BulletCollision/NarrowPhaseCollision/btRaycastCallback.h"

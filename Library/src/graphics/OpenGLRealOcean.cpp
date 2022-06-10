@@ -23,6 +23,8 @@
 //  Copyright (c) 2020 Patryk Cieslak. All rights reserved.
 //
 
+#include <stdexcept>
+
 #include "graphics/OpenGLRealOcean.h"
 
 #include "graphics/OpenGLState.h"
