@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSharedSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Tests-Debug-WSL" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="WSL" GENERATION_OPTIONS="-DCMAKE_BUILD_TYPE=Debug -DBUILD_TESTS=ON" BUILD_OPTIONS="-- BUILD_TESTS=ON" NO_GENERATOR="true" />
+      <configuration PROFILE_NAME="Tests-Release-WSL" ENABLED="true" CONFIG_NAME="Release" TOOLCHAIN_NAME="WSL" GENERATION_OPTIONS="-DCMAKE_BUILD_TYPE=Release -DBUILD_TESTS=ON" BUILD_OPTIONS="-- BUILD_TESTS=ON" NO_GENERATOR="true" />
+    </configurations>
+  </component>
+</project>
